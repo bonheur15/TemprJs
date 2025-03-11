@@ -1,0 +1,17 @@
+node_modules
+coverage
+.nyc_output
+.DS_Store
+*.log
+.vscode
+.idea
+compiled
+.awcache
+.rpt2_cache
+docs
+build
+package-lock.json
+dist
+
+browser-tests
+/browser-tests
