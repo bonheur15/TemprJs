@@ -63,7 +63,7 @@ export function replaceChar(s: string): string {
 }
 
 export function XMLEscape(str: unknown) {
-  // To deal with XSS. Based on Escape implementations of Mustache.JS and Marko, then customized.
+  // To deal with XSS. Recheck
   var newStr = String(str)
   if (/[&<>"']/.test(newStr)) {
     return newStr.replace(/[&<>"']/g, replaceChar)
