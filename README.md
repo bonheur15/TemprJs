@@ -76,9 +76,9 @@ The current index is {{index}}
 {{/each}}
 ```
 
-## ✔️ Tests
+## ✔️ Sceenshoots
 
-Tests can be run with `npm test`. Multiple tests check that parsing, rendering, and compiling return expected results, formatting follows guidelines, and code coverage is at the expected level.
+![alt text](image.png)
 
 ## Resources
 
