@@ -9,9 +9,9 @@
 
 **Summary**
 
-Temprjs is a modern, configurable, and blazing fast template engine implemented in JavaScript. It works out of the box with ExpressJS and the **full version** weighs only **~4KB gzipped**.
+Temprjs is a modern, configurable, and blazing fast template engine implemented in JavaScript. It works out of the box with ExpressJS And you can set any server (GO,APACHE,...) to work through api direct and the **full version** weighs only **~4KB gzipped**.
 
-**This is version 2** - a new, more powerful rewrite of Temprjs. It adds multiple features (like filter parameters, whitespace control, partials, and template inheritance) to bring you a template engine with the power of Nunjucks, the simplicity of EJS, and the small bundle size of its earlier versions.
+**This is version 2** - a new, more powerful rewrite of Temprjs. It adds multiple features (like filter parameters, whitespace control, partials, and template inheritance) to bring you a template engine with the power of Creating Templates at Lighting fast speed, the simplicity of EJS, and the small bundle size of its earlier versions.
 
 ## Why Temprjs?
 
